@@ -1,3 +1,21 @@
-h1, p {
-  font-family: Lato;
+.myname {
+  color: black;
+  text-align: center;
+  font-size: x-large;
+}
+.myoccupation {
+  color: black;
+  text-align: center;
+  font-size: x-large;
+}
+.myskills {
+  color: white;
+  font-size: x-large;
+}
+.skills {
+  color: white;
+  font-size: medium;
+}
+body {
+  background-color: black;
 }
